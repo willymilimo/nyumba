@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "user": { "id": 1, "first_name": "some comment", "last_name": "some last name", "phone_number": "09876677", "email_address": "email@email.com", "avatar": "route to avatar", "user_type": "standar", "gender": "male", "payment_details": [{"msisdn": "28982320", "account_name": "account_name"}] }, "location", "some location", "details": "house at such and such", "budget":1900, "pictures": ["picture","picture2"] }
+    { "id": 1, "user": { "id": 1, "first_name": "some comment", "last_name": "some last name", "phone_number": "09876677", "email_address": "email@email.com", "avatar": "route to avatar", "user_type": "standar", "gender": "male", "payment_details": [{"msisdn": "28982320", "account_name": "account_name"}] }, "location": "some location", "details": "house at such and such", "budget":1900, "pictures": ["picture","picture2"] }
   ],
   "users": [
     { "id": 1, "first_name": "some comment", "last_name": "some last name", "phone_number": "09876677", "email_address": "email@email.com", "avatar": "route to avatar", "user_type": "standar", "gender": "male", "payment_details": [{"msisdn": "28982320", "account_name": "account_name"}] }
